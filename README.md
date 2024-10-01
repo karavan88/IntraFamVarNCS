@@ -1,1 +1,1 @@
-# Intra-Family Variance in Non-Cognitive Skills: Insights from Random Intercept Effects
+# Intra-Family Variability in Non-Cognitive Skills: Insights from Random Intercept Effects
